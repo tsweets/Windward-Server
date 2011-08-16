@@ -1,0 +1,10 @@
+To reach the author you can email me at tony.sweets at gmail dot com
+Maven Instructions:
+
+Simple Compile: mvn compile
+
+Deploy to Tomcat: mvn tomcat:deploy  (Tomcat 6 works - not sure if this plugin is compatible with Tomcat 7)
+
+
+
+Place your WindwardReports.jar & WindwardReports.properties files in the src/main/resources dir

@@ -1,0 +1,8 @@
+<document>
+    <planName>Tony Test PLan</planName>
+    <companyName>Tony Test Company</companyName>
+    <productUrl>http://www.beer30.org</productUrl>
+    <sponsorContact>
+        <formattedPhone>555.555.5555</formattedPhone>
+    </sponsorContact>
+</document>
